@@ -1,4 +1,6 @@
-### Hi there 👋
+### Eat :chocolate_bar:
+### Code :computer:
+### Sleep :sleeping:
 
 <!--
 **NayanJD/nayanjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
